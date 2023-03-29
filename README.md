@@ -1,6 +1,6 @@
 This project is a basic implementation of how react works internally.
 
-Code walkthrough can be found [`here`](https://www.youtube.com/watch?v=f2mmoicsj5c)
+Code inspiration/walkthrough can be found [`here`](https://youtu.be/f2mMOiCSj5c) 
 
 ## Getting Started
 
