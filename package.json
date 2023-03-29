@@ -9,7 +9,9 @@
   "author": "vineetk.info@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "parcel": "^2.8.3",
     "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "parcel": "latest"
   }
 }
